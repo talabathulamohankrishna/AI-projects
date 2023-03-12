@@ -11,7 +11,7 @@ import cv2
 
 
 # take image input and assign variable to it
-img = "sem photo.jpeg"
+img = "smiley.jpg"
 
 
 # function to convert image into sketch
@@ -46,4 +46,4 @@ blur = scipy.ndimage.filters.gaussian_filter(i, sigma=13)
 r = dodge(blur, gray)
 
 
-cv2.imwrite('updated photo.png', r)
+cv2.imwrite('updatedphoto.png', r)
