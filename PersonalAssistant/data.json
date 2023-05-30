@@ -1,0 +1,134 @@
+{
+    "data":[
+        {
+            "key":"wish",
+            "query":["hello assistant","hii nassistant","hey","wake up","how are you","hii","hello"
+            ],
+            "value":["hello sir","how are you sir","hello","this is your assistant"
+            ]
+
+        },
+        {
+            "key":"bye",
+            "query":["bye","goo","good bye","quit","see you later","i am going"
+            ],
+            "value":["byee sir","byee","i am going","see you soon"
+            ]
+
+        },
+        {
+            "key":"name",
+            "query":["who are you","what is your name","what is your purpose","your name please","who made you"
+            ],
+            "value":["i am sidhu's assistant","sidhu's personal assistant","sidhu's assistant","an AI assistant"
+            ]
+
+        },
+        {
+            "key":"time",
+            "query":["what is time","time kitne hua","current time","could you please tell me the time","time in system"
+            ],
+            "value":["time"]
+
+        },
+        {
+            "key":"date",
+            "query":["what is date","date kitne hua","current date","could you please tell me the date","date in system","today's date"
+            ],
+            "value":["date"]
+
+        },
+        {
+            "key":"day",
+            "query":["what is day","day kitne hua","current day","could you please tell me the day","day in system","today's day"
+            ],
+            "value":["day"]
+
+        },
+        {
+            "key":"lock",
+            "query":["lock the device","can you lock my system","lock pc","lock karo"
+            ],
+            "value":["lock"]
+
+        },
+        {
+            "key":"temperature",
+            "query":["what is the temperature","could you please tell me the temperature","what's the temperature outside","temperature please",
+            "what is the weather condition","how is the the weather","weather condition please","is weather cool","is weather hot","how is the weather outside"
+            ],
+            "value":["temperature","weather"]
+
+        },
+        {
+            "key":"google",
+            "query":["open google","please open the google","google front page","google open page"
+            ],
+            "value":["open google"]
+
+        },
+        {
+            "key":"youtube",
+            "query":["open youtube","please open the youtube","youtube front page","youtube open page"
+            ],
+            "value":["open youtube"]
+
+        },
+        {
+            "key":"word",
+            "query":["open word","please open the word","open word document","word document please","word doc"
+            ],
+            "value":["word"]
+
+        },
+        {
+            "key":"excel",
+            "query":["open excel","please open the excel","open excel document","excel please","open xl","could you open excel in my system"
+            ],
+            "value":["excel"]
+
+        },
+        {
+            "key":"git",
+            "query":["open git","please open the git","open git document","git please","open github","could you open git in my system"
+            ],
+            "value":["git"]
+
+        },
+        {
+            "key":"vs code",
+            "query":["open vs code","please open the vs code","open vs code document","vs code please","open vs code","could you open vs code in my system","open code","open visual studio","visual studio please"
+            ],
+            "value":["vs code"]
+
+        },
+        {
+            "key":"addition",
+            "query":["add 1 with 2","add one and two","addition of 1 and 2","sum of 1 and 2","summation of and","sum of and","plus","adding of and","1 plus 2"
+            ],
+            "value":["add","sum","plus"]
+
+        },
+        {
+            "key":"subtraction",
+            "query":["remove 1 from 2","suntraction of one and two","minus of 1 and 2","subtract from","remove from","minus from","minus"
+            ],
+            "value":["subtract","minus","remove"]
+
+        },
+        {
+            "key":"search",
+            "query":["search for in google","what is means","search about in google","what did this means","make a look about in google"
+            ],
+            "value":["search","what"]
+
+        },
+        {
+            "key":"location",
+            "query":["could you guess my location","where am i","what is my current location","can you say my location","my location","what is this city","in which city i am","current city location"
+            ],
+            "value":["location","city"]
+
+        }
+    ]
+}
